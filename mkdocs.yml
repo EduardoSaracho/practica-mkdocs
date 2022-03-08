@@ -2,7 +2,8 @@ site_name: Página de Eduardo
 
 nav:
   - Principal: index.md
-  - Acerca de: about.md
+  - Práctica 15: iaw-practica-15.md
+  - Práctica 16: iaw-practica-16.md
 
 theme:
   name: material
@@ -10,4 +11,4 @@ theme:
     primary: green
   language: es
   #logo: images/imagen.png
-  
+
