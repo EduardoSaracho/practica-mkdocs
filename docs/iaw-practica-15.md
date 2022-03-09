@@ -68,7 +68,7 @@ apt-get install docker-compose -y
 <p><img src="https://eduardosaracho.github.io/images/wordpress.png"></p>
 ---
 
-![]({{site.url}}/practica-mkdocs/images/mysql.png)
+![]({{site.url}}/images/mysql.png)
 ---
 
 ![]({{site.url}}/practica-mkdocs/images/phpmyadmin2.png)
