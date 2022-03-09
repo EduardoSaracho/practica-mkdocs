@@ -65,13 +65,13 @@ apt-get install docker-compose -y
 <p style='text-align: justify;'>Crearemos un archivo <b>docker-compose.yml</b> para poder desplegar los servicios de <b>WordPress</b>, <b>MySQL</b> y <b>phpMyAdmin</b> utilizando las imágenes oficiales de <b>Docker Hub</b>.</p>
 <p style='text-align: justify;'>Utilizará la versión 3.3 y tendrá definidos cuatro servicios diferentes.</p>
 
-![]({{site.url}}/images/wordpress.png)
+![]({{site.url}}/practica-mkdocs/images/wordpress.png)
 ---
 
-![]({{site.url}}/images/mysql.png)
+![]({{site.url}}/practica-mkdocs/images/mysql.png)
 ---
 
-![]({{site.url}}/images/phpmyadmin2.png)
+![]({{site.url}}/practica-mkdocs/images/phpmyadmin2.png)
 ---
 
 ![]({{site.url}}/images/https-portal2.png)
