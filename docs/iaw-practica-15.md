@@ -68,12 +68,13 @@ apt-get install docker-compose -y
 <p><img src="https://eduardosaracho.github.io/images/wordpress.png"></p>
 ---
 
-![]({{site.url}}/images/mysql.png)
+<p><img src="https://eduardosaracho.github.io/images/mysql.png"></p>
 ---
 
-![]({{site.url}}/practica-mkdocs/images/phpmyadmin2.png)
+<p><img src="https://eduardosaracho.github.io/images/phpmyadmin2.png"></p>
 ---
 
-![]({{site.url}}/images/https-portal2.png)
+<p><img src="https://eduardosaracho.github.io/images/https-portal2.png"></p>
 <p style='text-align: justify;'>Al final del archivo de <b>docker-compose</b> definiremos los volúmenes de <b>wordpress</b>, <b>mysql</b> y <b>https-portal</b> junto a las redes de <b>frontend</b> y <b>backend</b>.</p>
-![]({{site.url}}/images/volumes-networks2.png)
+<p><img src="https://eduardosaracho.github.io/images/volumes-network2.png"></p>
+
