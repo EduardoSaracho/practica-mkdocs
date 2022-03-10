@@ -17,18 +17,18 @@ categories: README
 <p style='text-align: justify;'>Crearemos un archivo <b>docker-compose.yml</b> para poder desplegar los servicios de <b>Prestashop</b>, <b>MariaDB</b> y <b>phpMyAdmin</b> utilizando las imágenes oficiales de <b>Docker Hub</b>. La imágen de <b>Prestashop</b> que se utilizará, sera la de <b>Bitnami</b>.</p>
 <p style='text-align: justify;'>Utilizará la versión 3.3 y tendrá definidos cuatro servicios diferentes.</p>
 
-![]({{site.url}}/images/prestashop.png)
+<p><img src="https://eduardosaracho.github.io/images/prestashop.png"></p>
 ---
 
-![]({{site.url}}/images/mariadb.png)
+<p><img src="https://eduardosaracho.github.io/images/mariadb.png"></p>
 ---
 
-![]({{site.url}}/images/phpmyadmin.png)
+<p><img src="https://eduardosaracho.github.io/images/phpmyadmin.png"></p>
 ---
 
-![]({{site.url}}/images/https-portal.png)
+<p><img src="https://eduardosaracho.github.io/images/https-portal.png"></p>
 <p style='text-align: justify;'>Al final del archivo de <b>docker-compose</b> definiremos los volúmenes de <b>prestashop</b>, <b>mariadb</b> y <b>https-portal</b> junto a las redes de <b>frontend</b> y <b>backend</b>.</p>
-![]({{site.url}}/images/volumes-network.png)
+<p><img src="https://eduardosaracho.github.io/images/volumes-network.png"></p>
 
 ---
 ## **.env**
@@ -54,3 +54,4 @@ PRESTASHOP_COUNTRY=es
 PRESTASHOP_LANGUAGE=es
 PRESTASHOP_DATABASE_HOST=mariadb
 ```
+
