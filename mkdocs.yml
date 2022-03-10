@@ -10,6 +10,5 @@ theme:
   palette:
     primary: green
   language: es
-  logo: images/flecha.png
 
 site_url: https://eduardosaracho.github.io/practica-mkdocs/
